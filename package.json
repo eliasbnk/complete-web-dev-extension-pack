@@ -11,7 +11,8 @@
         "Extension Packs"
     ],
     "repository": {
-         "type": "git",
+        "type": "git",
+        "url": "https://github.com/eliasbnk/complete-web-dev-extension-pack.git"
     },
     "extensionPack": [
         "aaron-bond.better-comments",
