@@ -1,6 +1,6 @@
 {
     "name": "web-dev-pack",
-    "displayName": "Web Dev Pack",
+    "displayName": "Web Dev Extensions Pack",
     "description": "Useful/Must Have vscode extensions for Web Development.",
     "version": "0.0.0",
     "engines": {
