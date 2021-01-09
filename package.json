@@ -1,8 +1,8 @@
 {
-    "name": "complete-web-dev-extension-pack",
-    "displayName": "Complete Web Dev Extension Pack",
+    "name": "web-dev-pack",
+    "displayName": "Web Dev Pack",
     "description": "Useful/Must Have vscode extensions for Web Development.",
-    "version": "0.0.1",
+    "version": "0.0.0",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -10,6 +10,7 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "https://raw.githubusercontent.com/eliasbnk/complete-web-dev-extension-pack/master/logo1.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/eliasbnk/complete-web-dev-extension-pack.git"
