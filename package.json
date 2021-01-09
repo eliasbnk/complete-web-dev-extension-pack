@@ -10,7 +10,6 @@
     "categories": [
         "Extension Packs"
     ],
-    "icon": "https://raw.githubusercontent.com/eliasbnk/complete-web-dev-extension-pack/master/logo1.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/eliasbnk/complete-web-dev-extension-pack.git"
