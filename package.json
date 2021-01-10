@@ -2,7 +2,7 @@
     "name": "web-dev-pack",
     "displayName": "Web Dev Extensions Pack",
     "description": "Useful/Must Have vscode extensions for Web Development.",
-    "version": "1.9.3",
+    "version": "1.9.7",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -18,6 +18,7 @@
     },
     "extensionPack": [
         "aaron-bond.better-comments",
+        "hwencc.html-tag-wrapper",
         "abusaidm.html-snippets",
         "aeschli.vscode-css-formatter",
         "alexeyvax.vscode-open-native-terminal",
