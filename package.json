@@ -2,7 +2,7 @@
     "name": "web-dev-pack",
     "displayName": "Web Dev Extensions Pack",
     "description": "Useful/Must Have vscode extensions for Web Development.",
-    "version": "1.3.9",
+    "version": "1.5.7",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -96,6 +96,7 @@
         "wix.vscode-import-cost",
         "wmaurer.change-case",
         "yzhang.markdown-all-in-one",
+        "bengreenier.vscode-node-readme",
         "Zignd.html-css-class-completion"
     ]
 }
