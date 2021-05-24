@@ -2,7 +2,7 @@
     "name": "web-dev-pack",
     "displayName": "Web Dev Extensions Pack",
     "description": "Useful/Must Have vscode extensions for Web Development.",
-    "version": "3.3.3",
+    "version": "3.3.5",
     "engines": {
         "vscode": "^1.52.0"
     },
