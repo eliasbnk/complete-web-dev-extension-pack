@@ -9,7 +9,8 @@ In here you will find extensions for:
 - CSS
 - Styled Components
 - React
-- Firebase / Firestore
+- Docker
+- Linting / Formatting
 - Git
 - GitHub
 - Productivity
